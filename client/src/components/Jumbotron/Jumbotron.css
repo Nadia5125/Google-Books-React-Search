@@ -1,0 +1,20 @@
+/* 
+.jumbotron {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url(../img/book.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 737px;
+  color: white;
+} */
+
+
+
+.jumbotron {
+    background-image: url(../img/book2.jpg);
+}
+
+
+h1 {
+    color: teal;
+    text-shadow: 2px 2px rgb(3, 46, 44);
+}
